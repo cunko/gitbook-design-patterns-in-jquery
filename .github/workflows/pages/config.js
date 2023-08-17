@@ -16,6 +16,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: '山维空间',
+        
         link: 'https://blog.meathill.com',
       },
       {
